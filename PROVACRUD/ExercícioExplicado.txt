@@ -19,7 +19,6 @@ Então deverá ser criado:
 8. CRUD de Usuarios
 
 
-Só a funcionalidade incluir, criar pergunta múltipla escolha e discurssiva 
 
 ID da pergunta; a pergunta;resposta;gabarito
 1;Quem descobriu o Brasil ?;resposta;gabarito
@@ -36,3 +35,11 @@ Incluir uma nova pergunta, a pergunta, as alternativas e a correta e uma pergunt
 ligar a resposta ao arquivo para saber qual é qual 
 
 A pergunta de multipla escolha, a pergunta vai para um arquivo e a resposta para outra.
+
+Perguntas.txt Ok
+respostas.txt OK
+Alterar OK
+Incluir OK
+
+FALTAM
+Ler e Excluir
